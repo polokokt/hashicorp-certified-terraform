@@ -1,0 +1,1 @@
+ami_central = "ami-08f9a9c699d2ab3f0"
