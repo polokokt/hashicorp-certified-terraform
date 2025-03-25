@@ -1,0 +1,3 @@
+This is random text
+in the random file
+to thest the terraform file build-in function.
