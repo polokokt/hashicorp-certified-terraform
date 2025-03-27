@@ -1,0 +1,6 @@
+splunk = "8088"
+app_http_port = "8080"
+app_https_port = "8443"
+default_https_port = "443"
+cidr_blocks = "172.31.0.0/16"
+environment = "dev"
